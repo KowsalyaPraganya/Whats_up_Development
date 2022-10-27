@@ -13,3 +13,5 @@ Author: Kowsalya ChandraSekar
 5.Hiding Last seen 
 
 6.Added audio video call feature 
+
+7. Payment feature
